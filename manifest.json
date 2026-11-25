@@ -1,8 +1,9 @@
+{
   "name": "Calculadora BCV / USDT - J&V Importaciones",
   "short_name": "Calculadora BCV",
   "description": "Calculadora comercial de tasas BCV, USDT y precios en Bolívares para J&V Importaciones.",
-  ""./"": "/calculadora-bcv/",
-  "./": "/calculadora-bcv/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d0d0d",
